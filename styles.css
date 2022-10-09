@@ -44,7 +44,7 @@ footer {
     flex-direction: column;
     word-wrap: break-word;
     justify-content: center;
-    align-items: flex-end;
+    text-align: right;
     gap: 5px;
 }
 .previous {
